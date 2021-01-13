@@ -12,12 +12,11 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-apurvchandel.vercel.app/api/spotify-playing" alt="apurvchandel Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-apurvchandel.vercel.app/api/spotify-playing" alt="apurvchandel Spotify Playing" width="350" />](https://open.spotify.com/user/31uzzqubpokv23doc4g3uplrn464)
 
 ### Connect with me:
 
-[<img align="left" alt="apurvchandel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="apurvchandel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="apurvchandel | FaceBook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="apurvchandel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="apurvchandel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="apurvchandel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -69,9 +68,8 @@
 
 </details>
 
-[website]: https://apurvchandel.com
 [twitter]: https://twitter.com/apurvchandel
-[youtube]: https://youtube.com/apurvchandel
+[facebook]: https://facebook.com/apurvschandel
 [instagram]: https://instagram.com/apurvchandel
 [linkedin]: https://linkedin.com/in/apurvchandel
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
